@@ -1,0 +1,2 @@
+# -Algonive_Project_SALES-DATA-ANALYSIS-AND-FORECASTING
+This project is designed to help retail businesses analyze their historical sales performance, understand market trends, and predict future revenue,exploratory analysis,feature engineering,and machine learningforecasting.It enables businesses to make data driven decisions to enhance profitability,optimize inventory,and improve marketing strategies.
